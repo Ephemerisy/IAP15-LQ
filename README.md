@@ -1,7 +1,7 @@
 # IAP15_LQ
-蓝桥杯代码整理
-文件目录 
-'''
+蓝桥杯代码整理<br>
+文件目录<br>
+```
 ├─01-code_structure
 ├─02-set_hc573
 ├─03-display_SEG
@@ -26,4 +26,4 @@
         │  └─AccessPort
         │      └─Language
         └─代码阅读器-编辑器_VSCode
-'''
+```
