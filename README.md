@@ -14,16 +14,4 @@
 ├─10-at24c02
 ├─11-uart
 ├─15届蓝桥杯国赛
-└─蓝桥杯 单片机数据包
-    ├─BSP
-    ├─CH34x_Driver
-    │  └─DRVSETUP64
-    ├─Datasheet
-    └─Tools
-        ├─PDF阅读器
-        ├─STC-ISP
-        ├─串口调试助手
-        │  └─AccessPort
-        │      └─Language
-        └─代码阅读器-编辑器_VSCode
 ```
